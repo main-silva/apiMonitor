@@ -1,0 +1,14 @@
+{
+  "baseUrls": [
+    "https://masternaut-user-replication-v1-prd-channel-masternaut.app.sascar.com.br",
+    "https://masternaut-authentications-handler-v1-prd-channel-masternaut.app.sascar.com.br",
+    "https://masternaut-customer-correlation-v1-prd-channel-masternaut.app.sascar.com.br",
+    "https://service-configuration-v1-prd-channel-bvfm.app.sascar.com.br",
+    "https://users-crud-v1-prd-corporative-users.app.sascar.com.br",
+    "https://telemetry-users-v1-prd-corporative-users.app.sascar.com.br",
+    "http://telemetry-vehicles-crud-prd-operation-vehicles.app.sascar.com.br",
+    "http://customers-central-prd-corporative-customers.app.sascar.com.br",
+    "https://vehicles-dominio-crud-v1-prd-operation-vehicles.app.sascar.com.br",
+    "http://appsuite-vehicle-synchronization-prd-channel-bvfm.app.sascar.com.br"
+  ]
+}
